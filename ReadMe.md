@@ -103,7 +103,6 @@ Video-sharing platform (Vue.js, Vuetify, Node.js, MySQL) with route-based SSR.
 ---
 
 ### 📊 GitHub Stats
-### 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=umangkumar612&show_icons=true&theme=tokyonight&hide_border=true" />
