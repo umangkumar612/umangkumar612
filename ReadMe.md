@@ -6,11 +6,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/umang-kumar-kataria-193ab227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/umang-kumar-kataria-193ab2279/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://portfolioumangkumar.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" /></a>
   <a href="https://leetcode.com/u/umang___kataria__/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://www.instagram.com/umang___kataria_/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:umangkumarravi123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=umangkumar612&label=Profile+views&color=0e75b6&style=flat" alt="umangkumar612" />
 </p>
 
 ---
@@ -38,17 +42,16 @@
 
 **Frontend**
 <p>
- <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/Vuex-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Vuex-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 **Backend & Databases**
@@ -80,41 +83,54 @@
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
+
 ---
 
 ### 📌 Featured Projects
 
-**[NewsOrbit — Digital News Platform](https://1000765.site.guru/?mode=dev)**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[🗞️ NewsOrbit — Digital News Platform](https://1000765.site.guru/?mode=dev)**
+
 Multi-organization news platform (Vue.js, Node.js, MySQL, SSR) with a permission-based admin panel.
-- Role-based access control across 5 user types with a User Type → Role → Permission → Permission Group model
+- RBAC across 5 user types via User Type → Role → Permission → Permission Group
 - Parent-child organization hierarchy with per-organization category settings
 - 4-stage news publishing workflow (Draft, Pending, Published, Rejected)
-- Vuex global state and SSR-based initial data loading; database-driven theme system
+- Vuex global state + SSR-based initial data loading; database-driven theme system
 
-**[HDTV Bharat — Video Sharing Platform](https://1000875.site.guru/?mode=dev)**
+</td>
+<td width="50%" valign="top">
+
+**[📺 HDTV Bharat — Video Sharing Platform](https://1000875.site.guru/?mode=dev)**
+
 Video-sharing platform (Vue.js, Vuetify, Node.js, MySQL) with route-based SSR.
 - Route-based SSR for homepage, category, and video-detail pages
 - Chunk-based large-file upload with CDN delivery for videos and thumbnails
 - 4-stage video lifecycle (Pending, Approved, Rejected, Deleted) with soft deletion
 - Backend ownership checks securing owner-level video management
 
+</td>
+</tr>
+</table>
+
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=umangkumar612&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=umangkumar612&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umangkumar612&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=umangkumar612&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umangkumar612&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umangkumar612&label=Profile+views&color=0e75b6&style=flat" alt="umangkumar612" />
+  <img src="https://github-profile-trophy.vercel.app/?username=umangkumar612&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
